@@ -6,7 +6,7 @@ const error404 = document.querySelector('.not-found');
 
 search.addEventListener('click', () => {
 
-    const APIKey = 'adbf901f7509924c6ae8d5d5480c8d33';
+    const APIKey = 'API_KEY';
     const city = document.querySelector('.search_box input').value;
 
     if (city === '')
