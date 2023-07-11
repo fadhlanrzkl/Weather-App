@@ -1,6 +1,8 @@
 # Weather-App
 The Weather App is a web application that provides real-time weather information for locations worldwide. It retrieves weather data using the OpenWeatherMap API, enabling users to access up-to-date weather details for any city or country.
 
+Access: https://fadhlanrzkl.github.io/Weather-App/
+
 # Features
 1. Real-time Weather Data: Get current weather information for any location across the globe.
 2. Essential Weather Details: View temperature, humidity, wind speed, and other relevant weather metrics.
